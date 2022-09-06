@@ -10,7 +10,8 @@ Foi utilizado o SQLite3 para armazenar e manipular os dados obtidos.
 - a segunda linha corresponde a sua consumer_secret
 - a terceira linha corresponde a sua access_token
 - a quarta linha corresponde a sua access_token_secret
-todas essas keys podem ser obtidas através de solicitação do https://developer.twitter.com/
+
+Todas essas keys podem ser obtidas através de solicitação do https://developer.twitter.com/
 
 Além disso, é lido o arquivo clubs.txt, onde cada linha corresponde ao exato @ do clube no twitter, é possível retirar ou adicionar outros clubes.
 
